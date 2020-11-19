@@ -1,0 +1,4 @@
+Plotnikov 35000
+Suchonosov 45000
+Zotov 66000
+sidorov 10000
